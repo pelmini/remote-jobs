@@ -1,11 +1,29 @@
 # Vox Media (Product Team)
 
 ## Company blurb
+As the leading independent modern media company, Vox Media ignites conversations and influences culture. Across digital, podcasts, TV, streaming, live events, and print, we tell stories that affect our audience's daily lives and entertain as much as they inform.
 
-⚠ We don't have much information about this company yet!
+## Company size
+501 - 1000 employees 
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
+100% Remote
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/vox-media.md)
+## Region
+USA
+
+## Company Technologies 
+-  HTML5 and CSS3
+- Node.js
+- Javascript
+- Ruby 
+- Python
+- TypeScript
+
+## Office locations
+Washington, D.C (HQ)
+Chicago, IL
+Detroit, MI
+
+## How to apply
+[Vox Media Jobs Page](https://www.voxmedia.com/pages/careers-jobs)
